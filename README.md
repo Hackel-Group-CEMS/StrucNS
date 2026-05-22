@@ -6,5 +6,5 @@ Folded protein function requires stability, yet mapping protein structure and se
 
  <img width="3994" height="8626" alt="Fig1" src="https://github.com/user-attachments/assets/f19a8f11-9df8-4ab3-b92e-27ac95c80955" />
 
-
+Steps for running StrucNS is provided in Readme in Main model in StrucNS model folder.
 
